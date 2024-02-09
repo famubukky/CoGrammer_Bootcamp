@@ -8,10 +8,10 @@ print("length of the sentence:  ", len(str_manip))
 #The line of code that ask for the last letter in str_manip and replace it with  @
 last_letter = str_manip[-1]
 
-str_manip = str_manip.replace(last_letter,  "@")
+str_manip_last = str_manip.replace(last_letter,  "@")
 
 #The line of code that modified str_manip and print it
-print("modified sentence:", str_manip)
+print("modified sentence:", str_manip_last)
  
 #The line of code that prints the last three characters in str_manip backward      
 print("Last 3 characters backward:", str_manip[-1:-4:-1])

@@ -11,7 +11,6 @@ if total_time <= 100:
     award = "Provicial colours"
 elif total_time <= 105:
     award = "Provicial Half Colours"
-    
 elif total_time <= 110:
     award = "Provicial Scrolls"
 else:
