@@ -1,0 +1,14 @@
+7
+--------------------
+9
+--------------------
+23
+--------------------
+C:/Users/Famubukky/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/Famubukky/git repos/CoGrammer_Bootcamp/dob_task.py"
+--------------------
+C:/Users/Famubukky/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/Famubukky/git repos/CoGrammer_Bootcamp/dob_task.py"
+--------------------
+C:/Users/Famubukky/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/Famubukky/git repos/CoGrammer_Bootcamp/dob_task.py"
+--------------------
+C:/Users/Famubukky/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/Famubukky/git repos/CoGrammer_Bootcamp/student_register.py"
+--------------------
